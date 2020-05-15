@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=aEHN3HKxpGs&list=PLnNURxKyyLIIFO15z4P1V-rtvatICU3O9
+
+Links Mencionados no vídeo:
+Como hospedar seu site: https://www.youtube.com/watch?v=xqlQQmE-zTU
+Código da aula: http://b.link/codigoTemplatePortfolio
+Como hospedar o código com Git+Github :https://www.youtube.com/watch?v=LOQT9bb0dG0
